@@ -1,0 +1,13 @@
+name: Core
+main: Core\Main
+version: 0.0.1
+api: 2.0.0
+author: EricBums
+commands:
+    Info:
+        description: "Info Main Command"
+    Bums:
+        description: "Bums Main CMD"
+    Hub:
+        description: "um in die Lobby zu kommen"
+        aliases: [spawn,lobby]
